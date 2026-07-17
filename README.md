@@ -1,37 +1,92 @@
-# Hi... I'm Azizbek <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+<div align="center">
 
-I am **Azizbek Meyliqulov** from the Republic of Uzbekistan.  
-I am currently working as a **Java Backend Developer**.  
-I enjoy building reliable, scalable and efficient backend systems that solve real-world problems.
+# Hi, I'm Azizbek 👋
 
-## 👨‍💻 About Me  
-I'm a passionate backend developer who loves working with Java technologies. My interests include:
-- ☕ Building **RESTful APIs** with Spring Boot  
-- 🗄️ Working with **PostgreSQL & MySQL databases**  
-- ☁️ Exploring **Cloud & Microservices architecture**  
-- 🚀 Improving performance & clean code practices  
+**Java Backend Developer** from Uzbekistan 🇺🇿
 
-- Open to project collaborations
-- You can reach me through:
+Building reliable, scalable backend systems with Spring Boot
 
-**My phone number:** +998 88 317 67 77  
+[![Telegram](https://img.shields.io/badge/Telegram-@Azizbek6777-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Azizbek6777)
+[![Gmail](https://img.shields.io/badge/Email-azizbekmeliqulov94@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizbekmeliqulov94@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+
+</div>
 
 ---
 
-## <img src="https://prime-sender.com/gifs/contact-us.gif" alt="Contact gif" aria-hidden="true" height="30"/> Contact Me
-<a href="https://t.me/Azizbek6777" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
-<a href="mailto:your_email@gmail.com" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+## About Me
+
+I'm **Azizbek Meyliqulov**, a backend developer focused on building practical Java applications.
+
+- ☕ Developing **RESTful APIs** with **Spring Boot**
+- 🗄️ Designing databases with **PostgreSQL** and **MySQL**
+- 🧱 Applying **clean architecture** and maintainable code practices
+- 🚀 Learning **Docker**, cloud concepts, and microservices
+- 🤝 Open to collaborations and interesting backend projects
+
+📍 **Location:** G'uzor, Uzbekistan  
+📱 **Phone:** +998 88 317 67 77
 
 ---
 
-## <img src="https://images.squarespace-cdn.com/content/v1/5f89b1bd7f2f51237c7e1662/1603830221701-750TOUJK5NFPQBFDHRLR/Pool+Docs+Icon+Animation+%28Tools%29.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
+## Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,maven,gradle,git,github,idea,docker,linux,postman&perline=12)](#)
 
+**Languages:** Java  
+**Frameworks:** Spring Boot, Spring Data JPA, Spring Security  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Maven, Gradle, Git, Docker, Postman, IntelliJ IDEA
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
+## Featured Projects
 
-![GitHub followers](https://img.shields.io/github/followers/your_github_username?style=for-the-badge&logo=github&logoColor=%2300ffff&label=GitHub%20follower&labelColor=%23555555&color=%2300ffff)
+| Project | Description | Stack |
+| --- | --- | --- |
+| [AbbosAkaHotdog](https://github.com/azizbek23100307/AbbosAkaHotdog) | Business project for G'uzor district | Java, Spring Boot |
+| [task_management_system](https://github.com/azizbek23100307/task_management_system) | Practical task management application | Java, Spring Boot |
+| [mini_job_platform](https://github.com/azizbek23100307/mini_job_platform) | Mini job platform backend | Java, Spring Boot |
+| [Learnify](https://github.com/azizbek23100307/Learnify) | Learning platform for internship practice | Java, Spring Boot |
+| [CollabNotesApplication](https://github.com/azizbek23100307/CollabNotesApplication) | Collaborative notes application | Java, Spring Boot |
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=your_github_username&hide_border=false&border_radius=15&background=323232&ring=00ffff&stroke=fff&border=00ffff&fire=fff&currStreakNum=fff&sideNums=00ffff&currStreakLabel=fff&sideLabels=fff&dates=00ffaa)](#) | ![Azizbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&icon_color=00ffff&bg_color=323232&text_color=00ffaa&title_color=00ffff&border_color=00ffff&border_radius=15) |
-| ------------- | ------------- |
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/azizbek23100307?style=for-the-badge&logo=github&label=Followers)
+
+<img src="https://github-readme-stats.vercel.app/api?username=azizbek23100307&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azizbek23100307&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek23100307&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+
+</div>
+
+---
+
+## Currently Learning
+
+- Spring Security advanced patterns
+- Docker & containerization
+- System design basics
+- Writing cleaner tests and documentation
+
+---
+
+## Contact Me
+
+Feel free to reach out if you want to collaborate or discuss backend development.
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Azizbek6777-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Azizbek6777)
+[![Gmail](https://img.shields.io/badge/Gmail-azizbekmeliqulov94@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizbekmeliqulov94@gmail.com)
+
+---
+
+<div align="center">
+
+⭐️ From [azizbek23100307](https://github.com/azizbek23100307)
+
+</div>
